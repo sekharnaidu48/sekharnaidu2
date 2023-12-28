@@ -31,7 +31,7 @@
 - Exploring innovative solutions for continuous integration and delivery 🚚
 
 ## 📫 Connect with me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-sekhar naidu-blue)](https://www.linkedin.com/in/sekhar naidu)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-sekharnaidu-blue)](https://www.linkedin.com/in/sekharnaidu)
 [![Gmail](https://img.shields.io/badge/Email-ContactMe-red)](mailto:sekharnaidu23@gmail.com)
 ## ⚡ Fun Facts
 - I love to code and explore new technologies 💻
