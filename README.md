@@ -31,7 +31,7 @@
 - Exploring innovative solutions for continuous integration and delivery 🚚
 
 ## 📫 Connect with me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-derangulachaitanya-blue)](https://www.linkedin.com/in/derangulachaitanya)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-sekhar naidu-blue)](https://www.linkedin.com/in/sekhar naidu)
 [![Gmail](https://img.shields.io/badge/Email-ContactMe-red)](mailto:sekharnaidu23@gmail.com)
 ## ⚡ Fun Facts
 - I love to code and explore new technologies 💻
@@ -39,10 +39,10 @@
 - Ask me about my latest coding challenge and I'll share the story 
 ## 📈 GitHub Stats
 <a href="https://github.com/chaitanyaderangula">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=chaitanyaderangula&show_icons=true&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sekharnaidu48&show_icons=true&theme=radical" />
 </a>
-<a href="https://github.com/chaitanyaderangula">
+<a href="https://github.com/sekharnaidu48">
   <img align="center" width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chaitanyaderangula&layout=donut&theme=radical" />
 </a>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=chaitanyaderangula&theme=radical&date_format=M%20j%5B%2C%20Y%5D)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sekharnaidu48&theme=radical&date_format=M%20j%5B%2C%20Y%5D)
