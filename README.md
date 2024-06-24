@@ -23,7 +23,6 @@
 
 
 ## 👥 I'm looking to collaborate on...
-- 
 - Building tools to simplify software development workflows ⚙️
 - Exploring innovative solutions for continuous integration and delivery 🚚
 
