@@ -38,7 +38,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=sekharnaidu48&show_icons=true&theme=radical" />
 </a>
 <a href="https://github.com/sekharnaidu48">
-  <img align="center" width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chaitanyaderangula&layout=donut&theme=radical" />
+  <img align="center" width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sekharnaidukavali&layout=donut&theme=radical" />
 </a>
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sekharnaidu48&theme=radical&date_format=M%20j%5B%2C%20Y%5D)
